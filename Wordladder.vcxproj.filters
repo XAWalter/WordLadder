@@ -31,5 +31,8 @@
     <Text Include="dictionary.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="Output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

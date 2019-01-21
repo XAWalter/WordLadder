@@ -123,6 +123,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="dictionary.txt" />
+    <Text Include="Output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
